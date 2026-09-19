@@ -34,20 +34,20 @@ TRUSCRIPT inscriptions, CPU/GPU mining, AI-proof anchoring, and evolving digital
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║                     TOKENIZED REAL UTILITY                         ║
+║                     TOKENIZED REAL UTILITY                           ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  CHAIN          TrueChain                                          ║
-║  NATIVE ASSET   TRU                                                ║
-║  LEDGER         UTXO                                               ║
-║  CONSENSUS      Nakamoto Proof-of-Work                             ║
-║  POW            SHA256d + 21E8                                    ║
-║  TARGET         60-second blocks                                   ║
-║  RETARGET       Every 60 blocks                                    ║
-║  SUPPLY         21,000,000 TRU maximum                             ║
-║  SUBSIDY        50 TRU initial block reward                        ║
-║  HALVING        Every 210,000 blocks                               ║
-║  MINING         CPU + OpenCL GPU                                   ║
-║  CORE           C++17                                              ║
+║  CHAIN          TrueChain                                            ║
+║  NATIVE ASSET   TRU                                                  ║
+║  LEDGER         UTXO                                                 ║
+║  CONSENSUS      Nakamoto Proof-of-Work                               ║
+║  POW            SHA256d + 21E8                                       ║
+║  TARGET         60-second blocks                                     ║
+║  RETARGET       Every 60 blocks                                      ║
+║  SUPPLY         21,000,000 TRU maximum                               ║
+║  SUBSIDY        50 TRU initial block reward                          ║
+║  HALVING        Every 210,000 blocks                                 ║
+║  MINING         CPU + OpenCL GPU                                     ║
+║  CORE           C++17                                                ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -321,19 +321,19 @@ Configured capacity is not presented as benchmarked sustainable throughput. TRU 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                    APPLICATION LAYER                        │
-│ Web Wallet · Explorer · Bots · APIs · Developer Services   │
+│ Web Wallet · Explorer · Bots · APIs · Developer Services    │
 ├─────────────────────────────────────────────────────────────┤
 │                     ASSET LAYER                             │
-│ FT · NFT · SFT · NCFT · TRUSCRIPT · Living Tokens          │
+│ FT · NFT · SFT · NCFT · TRUSCRIPT · Living Tokens           │
 ├─────────────────────────────────────────────────────────────┤
 │                  PROGRAMMABILITY LAYER                      │
-│ Script VM · Persistent State · Gas · Multisig · MagicLock  │
+│ Script VM · Persistent State · Gas · Multisig · MagicLock   │
 ├─────────────────────────────────────────────────────────────┤
 │                       NODE LAYER                            │
-│ RPC · Mempool · Wallet · Mining · P2P · Storage            │
+│ RPC · Mempool · Wallet · Mining · P2P · Storage             │
 ├─────────────────────────────────────────────────────────────┤
 │                    CONSENSUS LAYER                          │
-│ UTXO · SHA256d+21E8 · Cumulative Work · Block Validation   │
+│ UTXO · SHA256d+21E8 · Cumulative Work · Block Validation    │
 └─────────────────────────────────────────────────────────────┘
 ```
 
